@@ -1,6 +1,6 @@
 {
   "name": "@tkech/project_react-component-library",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "test for a custom React component library",
   "scripts": {
     "rollup": "rollup -c",
